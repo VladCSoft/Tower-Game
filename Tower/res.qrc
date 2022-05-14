@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>enemy.png</file>
+        <file>browntowerbullet.png</file>
+        <file>browntowericon.png</file>
+        <file>greentowerbullet.png</file>
+        <file>greentowericon.png</file>
+        <file>redtowerbullet.png</file>
+        <file>redtowericon.png</file>
+        <file>browntower.png</file>
+        <file>greentower.png</file>
+        <file>redtower.png</file>
+        <file>bg.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+    </qresource>
+</RCC>
